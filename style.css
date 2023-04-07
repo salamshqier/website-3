@@ -1,0 +1,72 @@
+body{
+    background-color: black;
+}
+
+h5{
+color: white; 
+height: 75px;
+padding:19px;
+padding-left: 9px;
+font-style: italic;
+
+}
+
+
+
+#app{
+    width: 100%;
+    max-width: 100%;
+}
+
+#select{
+    font-family: sans-serif;
+    font-size: 22px;
+    border: 20px;
+    text-align: center;
+    background: rgb(29, 29, 29);
+    color: white;
+    border: 1px;
+    border-color:rgb(44, 44, 44) ;
+    font-style: italic;
+    font-weight: 30;
+}
+#app p{
+    height: 45px;
+    background: rgb(29, 29, 29);
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    border: 2px;
+    border-color:white;
+    margin-top: 14px;
+    width: 15%;
+    font-size: 22px;
+    margin-bottom: 14px;
+    margin-left: 560px;
+    border-radius: 40px;
+
+    
+}
+
+p{
+    font-style: italic;
+    font-weight: 20;
+    padding: 6px;
+    font-size: 20px;
+}
+
+#app textarea{
+    width: 100%;
+    height: 200px;
+    border:5px solid rgb(44, 44, 44);
+    outline: none;
+    min-height: 140px;
+}
+#app select{
+    width: 15%;
+    padding: 12px;
+    margin-bottom: 14px;
+    margin-left: 560px;
+    border-radius: 40px;
+    
+}
